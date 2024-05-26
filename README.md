@@ -51,7 +51,7 @@ NoteKeeper is a desktop note-taking application developed using the Electron fra
 To contribute, please fork the repository, create a feature branch, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the LICENSE file for details.
 
 ## Contact
-For any questions or feedback related to the project, please contact Eren Altay.
+For any questions or feedback related to the project, please contact me.
